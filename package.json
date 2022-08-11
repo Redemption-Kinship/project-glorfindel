@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Redemption-Kinship/project-glorfindel#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "discord.js": "^14.2.0"
   }
 }
