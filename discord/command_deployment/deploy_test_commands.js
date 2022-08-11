@@ -6,7 +6,8 @@
 // Required discord library imports:
 const {SlashCommandBuilder, Routes} = require('discord.js');
 const {REST} = require('@discordjs/rest');
-const {clientID, testGuildID, token} = require('../util/config.json');
+const {clientID, testGuildID} = require('../util/config.json');
+const {token} = require('../util/token.json');
 
 // Create command registry:
 const commands = [

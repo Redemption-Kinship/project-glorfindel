@@ -108,4 +108,4 @@ dist
 # Custom .gitignore
 
 # discord bot client token
-discord/util/config.json
+token.json
