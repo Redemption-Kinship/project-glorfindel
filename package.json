@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Redemption-Kinship/project-glorfindel#readme",
   "devDependencies": {
+    "eslint": "^8.22.0",
     "nodemon": "^2.0.19"
   }
 }
